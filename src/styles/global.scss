@@ -1,0 +1,17 @@
+:root {
+  --roxo-claro: #b4adea;
+  --branco-gelo: #fdfff7;
+  --grey: #50514f;
+  --green: #96d3a56c;
+  --background-input: #ebebeb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--branco-gelo);
+}
